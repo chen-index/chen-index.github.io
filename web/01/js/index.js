@@ -717,6 +717,4 @@ var S = {
   }());
   
   
-  setTimeout(() => {
-      S.init();
-  }, 5000)
+  S.init();
